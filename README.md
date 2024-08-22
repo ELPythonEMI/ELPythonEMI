@@ -17,6 +17,7 @@ Sono uno specialista IT con competenze in Helpdesk, Cybersecurity e Digital Mark
 - Cyber Threat Management
 - Python Essentials 2
 - Artificial Intelligence Week
+  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF0000?style=flat-square)
 ![Digital Marketing](https://img.shields.io/badge/-Digital%20Marketing-4CAF50?style=flat-square)
