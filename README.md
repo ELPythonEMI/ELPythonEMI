@@ -23,9 +23,7 @@ Sono uno specialista IT con competenze in Helpdesk, Cybersecurity e Digital Mark
 ![Digital Marketing](https://img.shields.io/badge/-Digital%20Marketing-4CAF50?style=flat-square)
 
 ## 🚀 Progetti
-- [Progetto 1]: 
-- [Progetto 2]: 
-- [Progetto 3]: 
+- ELReadTab
 
 ## 📫 Contattami
 - Email: emicarleo@libero.it
