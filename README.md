@@ -19,14 +19,14 @@ Sono uno specialista IT con competenze in Helpdesk, Cybersecurity e Digital Mark
 - Artificial Intelligence Week
 
 ## 🚀 Progetti
-- [Progetto 1]: Breve descrizione
-- [Progetto 2]: Breve descrizione
-- [Progetto 3]: Breve descrizione
+- [Progetto 1]: 
+- [Progetto 2]: 
+- [Progetto 3]: 
 
 ## 📫 Contattami
 - Email: emicarleo@libero.it
 - LinkedIn: [Emidio Carmine Carleo](https://www.linkedin.com/in/emidio-carmine-carleo-b04bb448)
-- Sito Web: [Portfolio Personale](https://codingwizardsel.000webhostapp.com/)
+
 
 ## 📊 Statistiche GitHub
 ![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=ELPythonEMI&show_icons=true&theme=radical)
