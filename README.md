@@ -16,7 +16,7 @@ Sono uno specialista IT con competenze in Helpdesk, Cybersecurity e Digital Mark
 ## 📜 Certificazioni
 - Cyber Threat Management
 - Python Essentials 2
-- Artificial Intelligence Week
+- Ethical Hacker
   
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF0000?style=flat-square)
