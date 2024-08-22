@@ -24,6 +24,7 @@ Sono uno specialista IT con competenze in Helpdesk, Cybersecurity e Digital Mark
 
 ## 🚀 Progetti
 - ELReadTab
+- Cosa ascoltare oggi?
 
 ## 📫 Contattami
 - Email: emicarleo@libero.it
