@@ -26,6 +26,7 @@ IT Specialist con competenze in Helpdesk, Cybersecurity e Digital Marketing. La 
 🎸 ELReadTab
 🎧 Cosa ascoltare oggi?
 📷 EL_cheese
+🐍 exceluniti
   
 ## 📫 Contattami
 - Email: emicarleo@libero.it
