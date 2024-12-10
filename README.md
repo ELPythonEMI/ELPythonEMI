@@ -32,6 +32,3 @@ IT Specialist con competenze in Helpdesk, Cybersecurity e Digital Marketing. La 
 - Email: emicarleo@libero.it
 - LinkedIn: [Emidio Carmine Carleo](https://www.linkedin.com/in/emidio-carmine-carleo-b04bb448)
 
-
-## 📊 Statistiche GitHub
-![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=ELPythonEMI&show_icons=true&theme=radical)
