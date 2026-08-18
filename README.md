@@ -23,12 +23,17 @@ IT Specialist con competenze in Helpdesk, Cybersecurity e Digital Marketing. La 
 ![Digital Marketing](https://img.shields.io/badge/-Digital%20Marketing-4CAF50?style=flat-square)
 
 ## Progetti
-- ELReadTab
-- Cosa ascoltare oggi? https://elpythonemi.github.io/html-version-Cosa-ascoltare-oggi-/
-- elpost_it
-- AvengerEL
-- exceluniti
 
+- Cosa ascoltare oggi? https://elpythonemi.github.io/html-version-Cosa-ascoltare-oggi-/
+  
+- elpost_it https://github.com/ELPythonEMI/elpost_it
+  
+- AvengerEL https://github.com/ELPythonEMI/AvengerEL
+  
+- exceluniti https://github.com/ELPythonEMI/exceluniti
+  
+- ELReadTab https://github.com/ELPythonEMI/ELReadTab
+  
 ## Contattami
 - Email: emicarleo@libero.it
 - LinkedIn: [Emidio Carmine Carleo](https://www.linkedin.com/in/emidio-carmine-carleo-b04bb448)
