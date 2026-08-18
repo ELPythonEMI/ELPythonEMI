@@ -25,7 +25,8 @@ IT Specialist con competenze in Helpdesk, Cybersecurity e Digital Marketing. La 
 ## Progetti
 - ELReadTab
 - Cosa ascoltare oggi?
-- EL_cheese
+- elpost_it
+- AvengerEL
 - exceluniti
 
 ## Contattami
