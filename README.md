@@ -24,7 +24,7 @@ IT Specialist con competenze in Helpdesk, Cybersecurity e Digital Marketing. La 
 
 ## Progetti
 - ELReadTab
-- Cosa ascoltare oggi?
+- Cosa ascoltare oggi? https://elpythonemi.github.io/html-version-Cosa-ascoltare-oggi-/
 - elpost_it
 - AvengerEL
 - exceluniti
