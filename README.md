@@ -33,6 +33,8 @@ IT Specialist con competenze in Helpdesk, Cybersecurity e Digital Marketing. La 
 - exceluniti https://github.com/ELPythonEMI/exceluniti
   
 - ELReadTab https://github.com/ELPythonEMI/ELReadTab
+
+- ELtelegramBOTmanager https://github.com/ELPythonEMI/ELtelegramBOTmanager 
   
 ## Contattami
 - Email: emicarleo@libero.it
