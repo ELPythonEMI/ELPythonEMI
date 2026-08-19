@@ -2,7 +2,7 @@
 
 ## Profilo Professionale
 IT Specialist con competenze in Helpdesk, Cybersecurity e Digital Marketing. La mia passione per la tecnologia si integra con un background in Storia e Civiltà Europee, offrendo una prospettiva unica e multidisciplinare per risolvere problemi complessi nel settore tecnologico.
-
+Ufficio https://elpythonemi.github.io/
 ## Competenze Tecniche
 - IT Helpdesk
 - Cybersecurity
