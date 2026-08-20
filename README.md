@@ -34,7 +34,9 @@ Ufficio https://elpythonemi.github.io/
   
 - ELReadTab https://github.com/ELPythonEMI/ELReadTab
 
-- ELtelegramBOTmanager https://github.com/ELPythonEMI/ELtelegramBOTmanager 
+- ELtelegramBOTmanager https://github.com/ELPythonEMI/ELtelegramBOTmanager
+  
+- Guida ricerca avanzata su GitHub https://github.com/ELPythonEMI/Guida-alla-ricerca-avanzata-su-GitHub
   
 ## Contattami
 - Email: emicarleo@libero.it
