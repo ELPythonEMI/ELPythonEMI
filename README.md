@@ -28,11 +28,11 @@ Ufficio https://elpythonemi.github.io/
   
 - Cosa ascoltare oggi? https://elpythonemi.github.io/html-version-Cosa-ascoltare-oggi-/
   
-- elpost_it https://github.com/ELPythonEMI/elpost_it
+- Elpost_it https://github.com/ELPythonEMI/elpost_it
   
 - AvengerEL https://github.com/ELPythonEMI/AvengerEL
   
-- exceluniti https://github.com/ELPythonEMI/exceluniti
+- Exceluniti https://github.com/ELPythonEMI/exceluniti
   
 - ELReadTab https://github.com/ELPythonEMI/ELReadTab
 
