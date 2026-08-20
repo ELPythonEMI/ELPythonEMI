@@ -24,6 +24,8 @@ Ufficio https://elpythonemi.github.io/
 
 ## Progetti
 
+- ELrinominello https://github.com/ELPythonEMI/ELrinominello
+  
 - Cosa ascoltare oggi? https://elpythonemi.github.io/html-version-Cosa-ascoltare-oggi-/
   
 - elpost_it https://github.com/ELPythonEMI/elpost_it
@@ -37,6 +39,7 @@ Ufficio https://elpythonemi.github.io/
 - ELtelegramBOTmanager https://github.com/ELPythonEMI/ELtelegramBOTmanager
   
 - Guida ricerca avanzata su GitHub https://github.com/ELPythonEMI/Guida-alla-ricerca-avanzata-su-GitHub
+
   
 ## Contattami
 - Email: emicarleo@libero.it
