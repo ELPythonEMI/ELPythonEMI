@@ -24,8 +24,9 @@ Entra nel mio ufficio https://elpythonemi.github.io/
 
 ## Progetti
 
+
 - ELtaskforce https://github.com/ELPythonEMI/ELtaskforce
-- 
+  
 - ELrinominello https://github.com/ELPythonEMI/ELrinominello
   
 - Cosa ascoltare oggi? https://elpythonemi.github.io/html-version-Cosa-ascoltare-oggi-/
